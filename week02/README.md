@@ -1,5 +1,8 @@
 # 2주차: 프로그래밍 패러다임
 
+## 회의 기록(클로바노트)
+- https://clovanote.naver.com/s/gpuhArL5Yj8vU7V32NpMw8S (09.16 화요일)
+
 ## 📚 학습 범위
 
 ### 1.2 프로그래밍 패러다임
