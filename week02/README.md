@@ -2,6 +2,7 @@
 
 ## 회의 기록(클로바노트)
 - https://clovanote.naver.com/s/gpuhArL5Yj8vU7V32NpMw8S (09.16 화요일)
+- https://clovanote.naver.com/s/cHNDbXgrieuJZz7sya8hhcS (09.16 화요일2)
 
 ## 📚 학습 범위
 
