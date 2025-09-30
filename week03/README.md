@@ -1,5 +1,9 @@
 # 3주차: 네트워크 (1)
 
+## 회의기록(클로반노트)
+- https://clovanote.naver.com/w/GL6MgxV9qbBdhnbq2Rww/note-detail/6d71fccb-435d-4f9a-88b1-eeb4fe9c321an(09.25 목요일)
+- https://clovanote.naver.com/w/GL6MgxV9qbBdhnbq2Rww/note-detail/b2625d3f-c92d-4073-9677-193b80692f0an(자바질문)
+
 ## 📚 학습 범위
 
 ### 2.1 네트워크의 기초
