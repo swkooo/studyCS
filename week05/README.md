@@ -1,5 +1,8 @@
 # 5주차: 네트워크 (3)
 
+[클로바노트 정리]
+- https://clovanote.naver.com/s/4i99Xr6KHyDFpMhic5VWHUS (10.16 목)
+
 ## 📚 학습 범위
 
 ### 2.5 HTTP
